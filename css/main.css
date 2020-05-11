@@ -1,0 +1,61 @@
+body {
+    background-color:  #ffed9e;
+    text-align:  center;
+    font-family:  "Gill Sans", sans-serif;
+    color:  #2d2db3;
+}
+
+header {
+    background-image:  url("../images/eiffel_v3.jpg");
+    width:  100%;
+    height: 300px;
+    padding-top:  150px;
+    padding-bottom: 0px;
+    padding-left: 60px;
+    margin-top:  -20px;
+    margin-left:  -20px;
+    margin-right: -20px;
+    border:  1px;
+}
+
+#name {
+    text-decoration: none;
+}
+
+#banner-nav-bar {
+    padding-left: 75px;
+}
+
+.banner-a {
+    padding:  0px 35px;
+    
+}
+
+.container {
+    height:  200px;
+    display:  flex;
+    align-items:  center;
+    justify-content: center;
+    padding: 30px;
+}
+
+.item {
+    width: 30em;
+}
+
+.book-cover {
+    float:  left
+}
+
+#page-title {
+    margin-top:  100px;
+}
+
+#distance {
+    margin:  80px 20px;
+}
+
+.map {
+    height:  400px;
+    width: 80%;
+}
