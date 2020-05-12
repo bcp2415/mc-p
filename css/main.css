@@ -16,6 +16,7 @@ header {
     margin-left:  -20px;
     margin-right: -20px;
     border:  1px;
+    background-color: inherit;
 }
 
 #name {
@@ -28,7 +29,7 @@ header {
 
 .banner-a {
     padding:  0px 35px;
-    
+
 }
 
 .container {
